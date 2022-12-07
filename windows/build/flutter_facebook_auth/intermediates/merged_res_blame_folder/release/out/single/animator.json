@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\flutter_facebook_auth\\intermediates\\merged_res\\release\\animator\\fragment_open_enter.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\36f03e03c801745728d52fb16f7ee4cb\\transformed\\fragment-1.3.0\\res\\animator\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\flutter_facebook_auth\\intermediates\\merged_res\\release\\animator\\fragment_open_exit.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\36f03e03c801745728d52fb16f7ee4cb\\transformed\\fragment-1.3.0\\res\\animator\\fragment_open_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\flutter_facebook_auth\\intermediates\\merged_res\\release\\animator\\fragment_close_enter.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\36f03e03c801745728d52fb16f7ee4cb\\transformed\\fragment-1.3.0\\res\\animator\\fragment_close_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\flutter_facebook_auth\\intermediates\\merged_res\\release\\animator\\fragment_fade_enter.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\36f03e03c801745728d52fb16f7ee4cb\\transformed\\fragment-1.3.0\\res\\animator\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\flutter_facebook_auth\\intermediates\\merged_res\\release\\animator\\fragment_fade_exit.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\36f03e03c801745728d52fb16f7ee4cb\\transformed\\fragment-1.3.0\\res\\animator\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\flutter_facebook_auth\\intermediates\\merged_res\\release\\animator\\fragment_close_exit.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\36f03e03c801745728d52fb16f7ee4cb\\transformed\\fragment-1.3.0\\res\\animator\\fragment_close_exit.xml"
+    }
+]

@@ -1,0 +1,129 @@
+name: v_cec_firebse1
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  bottom_bar_page_transition: ^2.0.0
+  cached_network_image: ^3.2.1
+  carousel_slider: ^4.1.1
+  clipboard: ^0.1.3
+  cloud_firestore: ^3.1.18
+  cupertino_icons: ^1.0.2
+  email_auth: ^1.0.0
+  expansion_tile_card: ^2.0.0
+  file_picker: ^5.1.0
+  firebase_auth: ^3.3.20
+  firebase_core: ^1.18.0
+  firebase_messaging: ^11.4.2
+  firebase_storage: ^10.3.8
+  flappy_search_bar: ^1.7.2
+  flutter:
+    sdk: flutter
+  flutter_carousel_slider: ^1.0.9
+  flutter_native_image: ^0.0.6+1
+  flutter_profile_picture: ^2.0.0
+  flutterfire_ui: ^0.4.2
+  fluttertoast: ^8.0.9
+  google_maps_flutter: ^2.2.0
+  google_sign_in: ^5.4.0
+  http: ^0.13.4
+  image_picker: ^0.8.5+3
+  provider: ^6.0.3
+  readmore: ^2.2.0
+  shared_preferences: ^2.0.15
+  smart_select: ^4.3.2
+  url_launcher: ^6.1.5
+  uuid: ^3.0.6
+  video_player: ^2.4.7
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+# The following section is specific to Flutter packages.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/google-logo.png
+    - assets/images/cec4.png
+    - assets/images/COE_LOGO.jpg
+    - assets/images/forums/proddec.png
+    - assets/images/forums/iedc.png
+    - assets/images/forums/foces.png
+    - assets/images/forums/Ieee.png
+    - assets/images/forums/logo.png
+    - assets/images/forums/ncc.png
+    - assets/images/forums/Nss.png
+    - assets/images/forums/mediacell.jpg
+    - assets/images/forums/tpc.png
+    - assets/images/forums/ARC.png
+    - assets/images/forums/exesslogo.png
+    - assets/images/forums/surge1.png
+    - assets/images/forums/EDclub.png
+    - assets/images/forums/tinkerhub.png
+    - assets/images/forums/CECifyb.png
+    - assets/images/pic1-01-scaled.jpeg
+    - assets/images/Profile-PNG-File.png
+    - assets/video/splashscreen.mp4
+    - assets/video/splashgradient.mp4
+    - assets/images/apj.png
+    - assets/images/apjkalam.jpg
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: perman
+      fonts:
+        - asset: assets/fonts/Permanent_Marker/PermanentMarker-Regular.ttf
+    - family: kdam
+      fonts:
+        - asset: assets/fonts/Kdam_Thmor_Pro/KdamThmorPro-Regular.ttf
+
+    - family: chalk
+      fonts:
+        - asset: assets/fonts/chalkiez-font/Font file/Chalkiez.ttf
+    - family: cascadia
+      fonts:
+        - asset: assets/fonts/cascadia_code/Cascadia Mono SemiBold 600.otf
+    - family: crimson
+      fonts:
+        - asset: assets\fonts\Crimson_Pro\static\CrimsonPro-Bold.ttf
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

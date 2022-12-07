@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\5052589df6863960be94d9d509e70c28\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\5052589df6863960be94d9d509e70c28\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\5052589df6863960be94d9d509e70c28\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\5052589df6863960be94d9d509e70c28\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    }
+]

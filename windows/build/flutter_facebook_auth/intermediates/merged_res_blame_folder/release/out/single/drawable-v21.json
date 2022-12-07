@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\flutter_facebook_auth\\intermediates\\merged_res\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\5052589df6863960be94d9d509e70c28\\transformed\\core-1.6.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\flutter_facebook_auth\\intermediates\\merged_res\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\3182b24683b3b9bb2df7244a2ecd1f1c\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\flutter_facebook_auth\\intermediates\\merged_res\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\3182b24683b3b9bb2df7244a2ecd1f1c\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\flutter_facebook_auth\\intermediates\\merged_res\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\3182b24683b3b9bb2df7244a2ecd1f1c\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\flutter_facebook_auth\\intermediates\\merged_res\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\3182b24683b3b9bb2df7244a2ecd1f1c\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\alvin\\Production Mode\\v_cec_firebse1_\\v_cec_firebse1_\\build\\flutter_facebook_auth\\intermediates\\merged_res\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\alvin\\.gradle\\caches\\transforms-3\\3182b24683b3b9bb2df7244a2ecd1f1c\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]
