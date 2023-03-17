@@ -9,17 +9,17 @@ class Signup_verify extends StatelessWidget {
   final TextEditingController otpcontroller = TextEditingController();
   final otpcontroller1 = List.generate(6, ((index) => TextEditingController()));
 
-  void verify(BuildContext context) {
-    if (emailAuth.validateOtp(
-        recipientMail: emailcontroller.value.text.trim(),
-        userOtp: otpcontroller1.toString())) {
-      Navigator.push(
-          context, MaterialPageRoute(builder: ((ctx) => Signup_password())));
-    } else {}
-    const Center(
-      child: CircularProgressIndicator(),
-    );
-  }
+  // void verify(BuildContext context) {
+  //   if (emailAuth.validateOtp(
+  //       recipientMail: emailcontroller.value.text.trim(),
+  //       userOtp: otpcontroller1.toString())) {
+  //     Navigator.push(
+  //         context, MaterialPageRoute(builder: ((ctx) => Signup_password())));
+  //   } else {}
+  //   const Center(
+  //     child: CircularProgressIndicator(),
+  //   );
+  // }
 
   @override
   Widget build(BuildContext context) {
@@ -114,14 +114,8 @@ class Signup_verify extends StatelessWidget {
                                       textAlign: TextAlign.center,
                                     ),
                                   ));
-                                } else if (emailAuth.validateOtp(
-                                    recipientMail:
-                                        emailcontroller.value.text.trim(),
-                                    userOtp: otpcontroller.text)) {
-                                  print(emailAuth.validateOtp(
-                                      recipientMail:
-                                          emailcontroller.value.text.trim(),
-                                      userOtp: otpcontroller.text));
+                                } else if (otpcontroller.text == randomNumber) {
+                                  print(otpcontroller.text == randomNumber);
                                   Navigator.push(
                                       context,
                                       MaterialPageRoute(

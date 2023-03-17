@@ -23,7 +23,7 @@ class LoginScreen extends StatefulWidget {
 
 final FirebaseAuth firebaseAuth = FirebaseAuth.instance;
 getUid() {
-  if (firebaseAuth.currentUser!.uid != null) {
+  if (firebaseAuth.currentUser != null) {
     return firebaseAuth.currentUser!.uid;
   }
 }
